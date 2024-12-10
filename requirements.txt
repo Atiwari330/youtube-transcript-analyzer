@@ -1,0 +1,9 @@
+streamlit
+youtube_transcript_api
+pytube
+google-generativeai
+python-dotenv
+fuzzywuzzy
+requests
+pandas
+python-Levenshtein
